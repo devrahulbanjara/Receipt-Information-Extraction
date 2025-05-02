@@ -1,1 +1,1 @@
-# Receipt2Data
+# Receipt-Information-Extraction
